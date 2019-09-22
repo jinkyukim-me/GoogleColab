@@ -55,6 +55,7 @@ some of the not so common ones can be installed by doing.
 
 #### 7. Using a Free GPU Runtime
 Select “Runtime,” “Change runtime type,”, set “Hardware accelerator” to GPU (the default is CPU).
+<p align="center"><img width="40%" src="https://github.com/jinkyukim-me/GoogleColab/blob/master/img/setting_gpu.png" /></p>
 
 #### 8. Downloading data from the web
 
