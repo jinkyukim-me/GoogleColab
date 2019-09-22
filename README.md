@@ -1,4 +1,4 @@
-<p align="center"><img width="40%" src="file." /></p>
+<p align="center"><img width="40%" src="https://github.com/jinkyukim-me/GoogleColab/blob/master/img/colab_logo.png" /></p>
 
 
 <br/>
