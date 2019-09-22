@@ -1,8 +1,5 @@
 <p align="center"><img width="40%" src="https://github.com/jinkyukim-me/GoogleColab/blob/master/img/colab_logo.png" /></p>
 
-
-<br/>
-
 ## What is Google Colab?
 Google Colab is a free cloud service and now it supports free GPU!
 
